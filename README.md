@@ -1,9 +1,17 @@
-# Battelship
+# Battleship
 
-Project based on hyperskill JetBrains Academy / Java Developer track
+A simple [Battleship](https://en.wikipedia.org/wiki/Battleship_%28game%29 "https://en.wikipedia.org/wiki/Battleship_(game)") game.
 
-## About
-Writing games is probably one of the most exciting tasks in programming. Develop your own version of the popular "Battleship Game" to play with your friends!
+## Prerequisites
 
-## Learning outcomes
-You will understand the process of developing such a complex program as a game and learn about processing user input and handling errors.
+This program requires Java to compile and run.
+
+## Credits
+
+**Author:** Mo Balić - [mobalic](https://github.com/mobalic)
+
+This program is based on Battleship (game) project on JetBrains Academy
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/mobalic/Battleship/blob/main/LICENSE) for details.
